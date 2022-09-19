@@ -31,8 +31,8 @@ USER-STORIES
 
 Wireframes
 
-![](../../../Pictures/wirdframe.png)
-wireframe
+![wireframe.img](wirdframe.png)
+
 
 
 Entity Relationship Diagrams 
