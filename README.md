@@ -31,11 +31,7 @@ USER-STORIES
 
 Wireframes
 
-    in a different file
-
-
-
-
+![](../../../Pictures/wirdframe.png)
 
 
 
