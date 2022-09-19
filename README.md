@@ -31,7 +31,7 @@ USER-STORIES
 
 Wireframes
 
-![](../../../Pictures/wirdframe.png)
+![wire frame](../../../Pictures/wirdframe.png)
 
 
 
