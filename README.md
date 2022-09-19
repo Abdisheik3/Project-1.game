@@ -32,7 +32,7 @@ USER-STORIES
 Wireframes
 
 ![](../../../Pictures/wirdframe.png)
-
+wireframe
 
 
 Entity Relationship Diagrams 
