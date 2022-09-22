@@ -1,0 +1,36 @@
+/* .board {
+    display: grid;
+    grid-template-columns: 
+} */
+
+.board{ 
+    display: grid;
+    grid-template-columns: repeat(7,100px);
+    grid-template-rows: repeat(6, 100px);
+    justify-content: center;
+    border-color: black;
+    background-color: yellow;
+    margin-top: 300px;
+   }
+
+#bo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+.slots{
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    
+    justify-content: center;
+    border-radius: 100px;
+    
+}
+/* 
+.slot:hover {
+    background-color: aqua;
+} */
+
