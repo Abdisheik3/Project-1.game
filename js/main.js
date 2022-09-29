@@ -118,7 +118,7 @@ let targetedColumn = [];
 resetGame.addEventListener('click', function (evt) {
   init();
 });
-
+// Great comments!!
 //checks where the disc can go, after it does the we can figure out who's the winner and display a text 
 document.querySelector('div.board')
   .addEventListener('click', function (evt) {
